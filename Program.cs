@@ -1,0 +1,14 @@
+﻿Console.Clear();
+Console.WriteLine("Its time, for the move you waiting for!!!");
+Console.ForegroundColor = ConsoleColor.Cyan;
+Thread.Sleep(2000);
+Console. WriteLine("...1!");
+Thread.Sleep(2000);
+Console. WriteLine("...2!");
+Thread.Sleep(2000);
+Console. WriteLine("...3! READ??!");
+Console.ResetColor();
+Console.BackgroundColor = ConsoleColor.Cyan;
+Thread.Sleep(2000);
+Console. WriteLine("MIKU MIKU BEAAAAAAAAAAAAAAAAN!!!!!");
+Console.ResetColor();
